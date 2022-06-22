@@ -1,0 +1,12 @@
+email verification:
+
+
+
+if is on local host then use port 587
+and if is on another port we use 465
+
+email host
+email port
+email ost user
+email host password
+email use tls
