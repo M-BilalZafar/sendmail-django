@@ -36,5 +36,4 @@ def home(request):
 
 
 
-print(global_code)
 
